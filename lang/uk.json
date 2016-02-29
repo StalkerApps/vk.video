@@ -7,7 +7,7 @@
 	},
 	"data": {
 		"": {
-			"After 10 seconds, the browser will be loaded, and to confirm your wish to log in, click on the button \"Pass test check\"": "Через 10 секунд, браузер буде завантажений, і щоб підтвердити своє бажання увійти, натисніть на кнопку \"Pass test check\"",
+			"After 10 seconds, the browser will be loaded, and to confirm your wish to log in, click on the button \"Pass test check\" or enter the code from sms message, if you enable two-factor authentication": "Через 10 секунд, браузер буде завантажений, і щоб підтвердити своє бажання увійти, натисніть на кнопку \"Pass test check\" або введіть код з смс повідомлення, якщо у вас включена двофакторна аутентифікація",
 			"Aspect": "Аспект",
 			"Back": "Назад",
 			"Cancel": "Скасувати",
@@ -46,6 +46,11 @@
 			"Videos of me": "Відео зі мною",
 			"added": "додано",
 			"ago": "назад",
+			"comment": [
+				"коментар",
+				"коментаря",
+				"коментарів"
+			],
 			"day": [
 				"день",
 				"дні",
@@ -55,6 +60,11 @@
 				"година",
 				"години",
 				"годин"
+			],
+			"like": [
+				"сподобалося",
+				"сподобалося",
+				"сподобалося"
 			],
 			"minute": [
 				"хвилина",
@@ -86,7 +96,7 @@
 			"view": [
 				"перегляд",
 				"перегляди",
-				"перегелядів"
+				"переглядів"
 			],
 			"year": [
 				"рік",

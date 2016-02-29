@@ -7,7 +7,7 @@
 	},
 	"data": {
 		"": {
-			"After 10 seconds, the browser will be loaded, and to confirm your wish to log in, click on the button \"Pass test check\"": "",
+			"After 10 seconds, the browser will be loaded, and to confirm your wish to log in, click on the button \"Pass test check\" or enter the code from sms message, if you enable two-factor authentication": "",
 			"Aspect": "",
 			"Back": "",
 			"Cancel": "",
@@ -46,11 +46,19 @@
 			"Videos of me": "",
 			"added": "",
 			"ago": "",
+			"comment": [
+				"",
+				""
+			],
 			"day": [
 				"",
 				""
 			],
 			"hour": [
+				"",
+				""
+			],
+			"like": [
 				"",
 				""
 			],
