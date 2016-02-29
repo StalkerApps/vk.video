@@ -1,10 +1,6 @@
 {
 	"name": "vk.video",
-<<<<<<< HEAD
 	"version": "1.1.14",
-=======
-	"version": "1.1.12",
->>>>>>> origin/master
 	"description": "Convenient application for viewing videos from the popular social network VKontakte. This service allows you to watch video from a personal page or use the search by friends, groups or title.",
 	"author": {
 		"name": "StalkerApps"
