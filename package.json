@@ -1,7 +1,7 @@
 {
-	"name": "vk.video",
-	"version": "1.1.14",
-	"description": "Convenient application for viewing videos from the popular social network VKontakte. This service allows you to watch video from a personal page or use the search by friends, groups or title.",
+	"name": "Vk Video",
+	"version": "1.1.15",
+	"description": "Convenient application for viewing videos from the popular social network VKontakte.",
 	"author": {
 		"name": "StalkerApps"
 	},
@@ -10,6 +10,7 @@
 		"url": "https://github.com/StalkerApps/vk.video.git"
 	},
 	"dependencies": {
+		"stb-referrer": "https://github.com/stbsdk/referrer.git",
 		"code-proxy": "^1.2.21",
 		"del": "^1.2.0",
 		"gettext-parser": "^1.1.1",
@@ -41,7 +42,23 @@
 		"gulp-image-resize": "^0.6.0"
 	},
 	"config": {
+		"type": "app",
+		"category": "apps",
 		"backgroundColor": "#526582",
-		"icons": "icons"
+		"name": "Vk Video",
+		"legacy": true,
+		"description": "Convenient application for viewing videos from the popular social network VKontakte.",
+		"icons": {
+			"paths": {
+				"480": "img/480/",
+				"576": "img/576/",
+				"720": "img/720/",
+				"1080": "img/1080/"
+			},
+			"states": {
+				"normal": "icons/2015.png",
+				"active": "icons/2015.focus.png"
+			}
+		}
 	}
 }
